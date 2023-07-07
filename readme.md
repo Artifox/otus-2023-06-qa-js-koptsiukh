@@ -1,3 +1,1 @@
-первая строка
-
-в dev есть эта строка
+Создано в рамках курса OTUS JavaScript QA Engineer
